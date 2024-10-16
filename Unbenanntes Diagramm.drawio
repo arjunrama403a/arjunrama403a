@@ -140,7 +140,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-59" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-58">
           <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-60" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-58">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-60" value="RJ45 2.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-58">
           <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-61" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -149,7 +149,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-62" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-61">
           <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-63" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-61">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-63" value="RJ45 3.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-61">
           <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-64" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -158,7 +158,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-65" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-64">
           <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-66" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-64">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-66" value="RJ45 4.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-64">
           <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="JUdulcwFiIQr3jhsynN7-8" target="JUdulcwFiIQr3jhsynN7-62">
