@@ -243,7 +243,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-27" value="" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="JUdulcwFiIQr3jhsynN7-85">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-29" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="JUdulcwFiIQr3jhsynN7-85">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-29" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Multisensor%20RF%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%22690%22%20width%3D%22109%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="JUdulcwFiIQr3jhsynN7-85">
           <mxGeometry x="51" width="29.7" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-86" value="Multisensor RF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-87">
@@ -272,6 +272,9 @@
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-93" value="Keypad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
           <mxGeometry y="82" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-95" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
+          <mxGeometry x="60.02999999999997" y="19" width="29.7" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
