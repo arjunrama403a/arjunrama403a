@@ -87,7 +87,7 @@
           <mxGeometry x="721" y="640" width="29.7" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="664.5" y="350" width="109" height="80" as="geometry" />
+          <mxGeometry x="690" y="125" width="109" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-31" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png" vertex="1" parent="JUdulcwFiIQr3jhsynN7-33">
           <mxGeometry x="1.5" width="80" height="80" as="geometry" />
@@ -95,11 +95,26 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-32" value="Alarm Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-33">
           <mxGeometry y="10" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-34" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="1">
-          <mxGeometry x="529.5" y="370" width="50" height="40" as="geometry" />
+        <mxCell id="JUdulcwFiIQr3jhsynN7-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="130" width="209.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-35" value="RJ45 4.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="340" width="109" height="30" as="geometry" />
+        <mxCell id="JUdulcwFiIQr3jhsynN7-34" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-40">
+          <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-35" value="RJ45 1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-40">
+          <mxGeometry width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-40">
+          <mxGeometry x="159.5" y="46" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-44" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-40">
+          <mxGeometry x="80" y="47" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-45" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-40">
+          <mxGeometry x="90" y="46" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="240" y="177" width="320" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
