@@ -212,6 +212,9 @@
         <mxCell id="HPuELNRCF3hoaCQyE0XD-20" value="Kentix&lt;div&gt;Door Sensor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-148.42000000000002" y="-620" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-21" value="Kentix&lt;div&gt;Keypad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-590" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
