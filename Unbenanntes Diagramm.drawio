@@ -134,6 +134,9 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-54" value="" style="shape=mxgraph.cisco.controllers_and_modules.10ge_fcoe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="612.15" y="383.5" width="64" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="218" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
