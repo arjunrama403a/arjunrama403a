@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Seite-1" id="lZOzEL-j1Dw_tLo4sXnh">
-    <mxGraphModel dx="1527" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,21 @@
             <mxPoint x="-240" y="-810" as="sourcePoint" />
             <mxPoint x="-170" y="-810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-2" value="PoE Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-746" y="-913" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-3" value="RJ45 1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="-1081" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-5" value="RJ45 2&lt;span style=&quot;background-color: initial;&quot;&gt;.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="-1020" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-6" value="RJ45 3.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="-960" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-7" value="RJ45 4.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-572" y="-900" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
