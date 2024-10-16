@@ -267,14 +267,26 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-94" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="539.97" y="611" width="109" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-92" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Keypad.svg;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
-          <mxGeometry x="30.029999999999973" width="48.95" height="89" as="geometry" />
-        </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-93" value="Keypad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
           <mxGeometry y="82" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-95" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
-          <mxGeometry x="60.02999999999997" y="19" width="29.7" height="21" as="geometry" />
+        <mxCell id="JUdulcwFiIQr3jhsynN7-96" value="" style="group" vertex="1" connectable="0" parent="JUdulcwFiIQr3jhsynN7-94">
+          <mxGeometry x="30.029999999999973" width="59.7" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-92" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Keypad.svg;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-96">
+          <mxGeometry width="48.95" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-95" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="JUdulcwFiIQr3jhsynN7-96">
+          <mxGeometry x="30" y="19" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-97" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="691" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-98" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="510" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-99" value="Door Sensor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="692" y="580" width="109" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
