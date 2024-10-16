@@ -46,14 +46,8 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-6" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="1">
           <mxGeometry x="189.5" y="370" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-7" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="1">
-          <mxGeometry x="189.5" y="230" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-8" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="1">
           <mxGeometry x="189.5" y="300" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-10" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="130" width="109" height="70" as="geometry" />
@@ -134,8 +128,47 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-54" value="" style="shape=mxgraph.cisco.controllers_and_modules.10ge_fcoe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="612.15" y="383.5" width="64" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="JUdulcwFiIQr3jhsynN7-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="JUdulcwFiIQr3jhsynN7-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="200" width="109" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-7" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-57">
+          <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-10" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-57">
+          <mxGeometry width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="435" y="170" width="109" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-59" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-58">
+          <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-60" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-58">
+          <mxGeometry width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="434" y="270" width="109" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-62" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-61">
+          <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-63" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-61">
+          <mxGeometry width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="435" y="390" width="109" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-65" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-64">
+          <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-66" value="RJ45 2.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-64">
+          <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
