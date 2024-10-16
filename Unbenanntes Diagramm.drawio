@@ -235,7 +235,7 @@
           <mxGeometry x="63" y="53" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-87" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="690" width="109" height="110" as="geometry" />
+          <mxGeometry x="280" y="690" width="109" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-85" value="" style="group" vertex="1" connectable="0" parent="JUdulcwFiIQr3jhsynN7-87">
           <mxGeometry x="14.150000000000034" y="30" width="80.70000000000005" height="80" as="geometry" />
@@ -263,6 +263,15 @@
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-91" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="600" y="542.5" width="120" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="539.97" y="611" width="109" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-92" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Keypad.svg;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
+          <mxGeometry x="30.029999999999973" width="48.95" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-93" value="Keypad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-94">
+          <mxGeometry y="82" width="109" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
