@@ -158,6 +158,18 @@
         <mxCell id="HPuELNRCF3hoaCQyE0XD-7" value="RJ45 4.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-572" y="-900" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-8" value="RJ45 1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-1111" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-9" value="RJ45 1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-845" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-10" value="RJ45 1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-941" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPuELNRCF3hoaCQyE0XD-11" value="RJ45 1.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-1027" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
