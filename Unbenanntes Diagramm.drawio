@@ -185,7 +185,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-51" value="" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="JUdulcwFiIQr3jhsynN7-75">
           <mxGeometry x="14.5" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-72" value="Alarm Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-75">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-72" value="Multisensor LAN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-75">
           <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-76" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -194,7 +194,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-53" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="JUdulcwFiIQr3jhsynN7-76">
           <mxGeometry x="14.5" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-73" value="Alarm Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-76">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-73" value="Laptop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-76">
           <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-77" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -203,7 +203,7 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-54" value="" style="shape=mxgraph.cisco.controllers_and_modules.10ge_fcoe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-77">
           <mxGeometry x="30.5" y="30" width="64" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="JUdulcwFiIQr3jhsynN7-74" value="Alarm Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-77">
+        <mxCell id="JUdulcwFiIQr3jhsynN7-74" value="GF-TA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-77">
           <mxGeometry width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="JUdulcwFiIQr3jhsynN7-59" target="JUdulcwFiIQr3jhsynN7-54">
