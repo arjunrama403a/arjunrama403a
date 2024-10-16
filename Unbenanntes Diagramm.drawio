@@ -107,6 +107,9 @@
         <mxCell id="JUdulcwFiIQr3jhsynN7-32" value="Alarm Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-33">
           <mxGeometry y="10" width="109" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-80" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="JUdulcwFiIQr3jhsynN7-33">
+          <mxGeometry x="57.8" y="36" width="28.2" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="JUdulcwFiIQr3jhsynN7-40" source="JUdulcwFiIQr3jhsynN7-34" target="JUdulcwFiIQr3jhsynN7-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="210" as="sourcePoint" />
