@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JUdulcwFiIQr3jhsynN7-1" value="" style="shape=mxgraph.cisco.buildings.telecommuter_house_pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="104" height="88" as="geometry" />
+        <mxCell id="JUdulcwFiIQr3jhsynN7-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="88" y="250" width="88" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-2" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-4">
+          <mxGeometry x="12" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-3" value="PoE Switch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-4">
+          <mxGeometry y="64" width="88" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
