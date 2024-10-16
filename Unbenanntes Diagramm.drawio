@@ -87,7 +87,7 @@
           <mxGeometry x="721" y="640" width="29.7" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530" y="40" width="268.5" height="90" as="geometry" />
+          <mxGeometry x="435.5" y="50" width="268.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-34" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;" vertex="1" parent="JUdulcwFiIQr3jhsynN7-40">
           <mxGeometry x="29.5" y="30" width="50" height="40" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-51" value="" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="695.85" y="175" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="168.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="JUdulcwFiIQr3jhsynN7-5" target="JUdulcwFiIQr3jhsynN7-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -129,7 +129,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JUdulcwFiIQr3jhsynN7-53" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="704" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="608.15" y="273.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUdulcwFiIQr3jhsynN7-54" value="" style="shape=mxgraph.cisco.controllers_and_modules.10ge_fcoe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="612.15" y="383.5" width="64" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
